@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>منصة بحرية تفاعلية</title>
+    <link rel="stylesheet" href="style.css"> <!-- ربط ملف CSS -->
+</head>
+<body>
+    <header>
+        <h1>مرحباً بكم في المنصة البحرية التفاعلية</h1>
+    </header>
+
+    <main>
+        <section>
+            <p>هذه هي منصتنا التي تجمع بين التكنولوجيا والبيئة البحرية!</p>
+        </section>
+    </main>
+
+    <footer>
+        <p>حقوق النشر © 2025</p>
+    </footer>
+
+    <script src="script.js"></script> <!-- ربط ملف JavaScript -->
+</body>
+</html>
