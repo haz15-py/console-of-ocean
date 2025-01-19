@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <h1>مرحباً بكم في المنصة البحرية التفاعلية</h1>
+        <h1 class="fadeIn">مرحباً بكم في المنصة البحرية التفاعلية</h1>
     </header>
 
     <main>
@@ -24,6 +24,3 @@
     <script src="script.js"></script> <!-- ربط ملف JavaScript -->
 </body>
 </html>
-<header>
-    <h1 class="fadeIn">مرحباً بكم في المنصة البحرية التفاعلية</h1>
-</header>
